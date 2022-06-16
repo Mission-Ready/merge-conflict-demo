@@ -1,7 +1,12 @@
 body {
-  background-color: lightyellow;
+  background-color: orange;
 }
 
 h2 {
-  color: green;
+  color: bisque;
+}
+
+h1 {
+  color: white;
+  font-size: 5em;
 }
